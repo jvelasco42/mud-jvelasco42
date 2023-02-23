@@ -1,0 +1,14 @@
+<world>
+    <room keyword = "Home" name = "CSI 388" desc = "A room of confusion and bewilderment to all who enter." exits = "-1, -1, -1, Hall, -1, -1">
+        <items>
+            <item itemName = "chair" damage = "5" speed = "5" itemDesc = "Something you sit on"></item>
+            <item itemName = "computer" damage = "3" speed = "10" itemDesc = "Device that accesses the internet"></item>
+        </items>
+    </room>
+    <room keyword = "Hall" name = "Hallway" desc = "Long room that connects rooms to each other." exits = "-1, Stairs, Home, -1, -1, -1">
+        <items></items>
+    </room>
+    <room keyword = "Stairs" name = "Stairwell Third Floor" desc = "Room that connects between floors." exits = "Hall, -1, -1, -1, -1, -1">
+        <items></items>
+    </room>
+</world>

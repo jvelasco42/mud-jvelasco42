@@ -1,0 +1,17 @@
+3
+CSI 388
+A cheery room.
+2
+chair
+Something you sit on.
+computer
+Device that accesses the internet.
+-1, -1, -1, 1, -1, -1
+Hallway
+Long room.
+0
+-1, 2, 0, -1, -1, -1
+Stairwell Third Floor
+Between floors.
+0
+1, -1, -1, -1, -1, -1
