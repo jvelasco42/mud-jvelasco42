@@ -1,4 +1,4 @@
-# mud-jvelasco42
+# Multi-User Dungeon
 
 A multi-user dungeon (MUD) is both a style of role-playing game and the name of one
 of the original text-based multiplayer online role-playing games of this genre. 
